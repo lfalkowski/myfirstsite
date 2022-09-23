@@ -20,3 +20,8 @@ img{
 	margin: auto;
   display: block;
 }
+
+table:hover{
+	border: 1px solid;
+	border-color: #FAEBD7;
+}
