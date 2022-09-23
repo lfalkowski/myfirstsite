@@ -1,0 +1,22 @@
+hr {
+	border-style: none;
+	border-color: grey;
+	border-top-style: dotted;
+	background-color: none;
+	height: 0px;
+	width: 20%;
+	border-width: 15px;
+
+}
+
+h1{
+	color: #444444;
+	font-style: italic;
+	margin: auto;
+	width: 40%;
+	padding: 10px;
+}
+img{
+	margin: auto;
+  display: block;
+}
