@@ -35,8 +35,8 @@ table:hover{
 .wave{
 	position: absolute;
 	opacity: 50%;
-	height: 568;
-	width: 1260;
+	height: 100%;
+	width: 100%;
 	z-index: -1;
 	left: 0px;
 	top: 0px;
