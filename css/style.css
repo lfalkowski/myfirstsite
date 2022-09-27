@@ -11,10 +11,11 @@ hr {
 
 h1{
 	color: #444444;
-	font-style: italic;
+	font-family: monospace;
 	margin: auto;
-	width: 40%;
-	padding: 10px;
+	width: 30%;
+	font-size: 27;
+	padding: 0px;
 }
 img{
 	margin: auto;
@@ -27,7 +28,7 @@ table:hover{
 }
 
 .test{
-	height: 22;
+	height: 60;
 }
 
 
@@ -39,4 +40,18 @@ table:hover{
 	z-index: -1;
 	left: 0px;
 	top: 0px;
+}
+
+.wavesside {
+	position: absolute;
+	z-index: -1;
+	left: 900;
+	top: 1200
+}
+
+.wavessideunder{
+	position: absolute;
+	z-index: -1;
+	left: 900;
+	top: 600;
 }
