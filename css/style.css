@@ -55,3 +55,8 @@ table:hover{
 	left: 65%;
 	top: 100%;
 }
+
+.imageofme {
+	max-width: 100%;
+  min-width: 300px;
+}
