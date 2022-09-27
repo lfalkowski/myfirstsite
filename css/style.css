@@ -11,11 +11,10 @@ hr {
 
 h1{
 	color: #444444;
-	font-family: monospace;
+	font-family: Geneva, cursive;
 	margin: auto;
-	width: 30%;
-	font-size: 27;
-	padding: 0px;
+	width: 17%;
+	font-size: 24;
 }
 img{
 	margin: auto;
@@ -28,16 +27,17 @@ table:hover{
 }
 
 .test{
-	height: 60;
+	height: 100%;
+	z-index: 0;
 }
 
 
 .wave{
 	position: absolute;
+	z-index: -1;
 	opacity: 50%;
 	height: 100%;
 	width: 100%;
-	z-index: -1;
 	left: 0px;
 	top: 0px;
 }
@@ -54,12 +54,4 @@ table:hover{
 	z-index: -1;
 	left: 65%;
 	top: 100%;
-}
-
-.ueberschrift{
-	z-index: 1;
-}
-
-.imageofme {
-	z-index: 1;
 }
