@@ -45,13 +45,21 @@ table:hover{
 .wavesside {
 	position: absolute;
 	z-index: -1;
-	left: 900;
-	top: 1200
+	left: 65%;
+	top: 200%;
 }
 
 .wavessideunder{
 	position: absolute;
 	z-index: -1;
-	left: 900;
-	top: 600;
+	left: 65%;
+	top: 100%;
+}
+
+.ueberschrift{
+	z-index: 1;
+}
+
+.imageofme {
+	z-index: 1;
 }
