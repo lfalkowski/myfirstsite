@@ -1,4 +1,4 @@
-hr {
+.hr {
 	border-style: none;
 	border-color: grey;
 	border-top-style: dotted;
@@ -8,17 +8,23 @@ hr {
 	border-width: 15px;
 
 }
+p{
+	max-width: 70%;
+}
 
-h1{
+.h1{
 	color: #444444;
-	font-family: Geneva, cursive;
 	margin: auto;
-	width: 17%;
+	width: 30%;
 	font-size: 150%;
 }
 img{
 	margin: auto;
   display: block;
+}
+h2{
+	font-family: Verdana;
+	max-width: 70%;
 }
 
 table:hover{
@@ -57,5 +63,6 @@ table:hover{
 }
 
 .imageofme {
-	max-height: 500px;
+	max-height: 400px;
+	max-width: 500px;
 }
