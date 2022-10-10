@@ -62,7 +62,9 @@ table:hover{
 	top: 100%;
 }
 
-.imageofme {
-	max-height: 400px;
-	max-width: 500px;
+@media (max-width: 900px) {
+	.imageofme {
+		height: 200;
+		width: 150;
+	}
 }
